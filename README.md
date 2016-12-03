@@ -43,11 +43,11 @@ Port 3000 in the host computer is forwarded to port 3000 in the virtual machine.
 
 * Bundler
 
-* SQLite3, MySQL, and Postgres
+* SQLite3, and Postgres
 
 * Databases and users needed to run the Active Record test suite
 
-* System dependencies for nokogiri, sqlite3, mysql, mysql2, and pg
+* System dependencies for nokogiri, sqlite3, and pg
 
 * Memcached
 
